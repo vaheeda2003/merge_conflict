@@ -1,3 +1,4 @@
-IT
-CSE
-AIML
+mpc
+bipc
+
+hec
